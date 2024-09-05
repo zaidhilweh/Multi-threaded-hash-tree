@@ -1,4 +1,4 @@
-/*
+/*    
 Name: Zaid Hilweh, Joshua Cox
 
 Description: Program that takes a input file, and amt of threads wanting to use to hash the file.
